@@ -37,10 +37,10 @@ cp .env.example .env
 cd path/to/auto_build/backend
 cap -T
 
-# Deploy dmm - dev
-cap dmm_backend:dev deploy branch=develop
+# Deploy myblog - dev
+cap myblog:dev deploy branch=develop
 
-# Deploy dmm - prod
-cap dmm_backend:production deploy branch=v0.1.2
+# Deploy myblog - prod
+cap myblog:production deploy branch=v0.1.2
 ```
 ## Install Jenkins and config [Refer](/jenkins)
