@@ -9,17 +9,17 @@ Centralized Multi-deployment with Capistrano
 | capistrano | 3.8.1 | http://capistranorb.com/                                |
 
 ## install capistrano version 3.8.1
-```
+```sh
 gem install capistrano -v 3.8.1
 ```
 ## install bundler
-```
+```sh
 gem install bundler
 ```
 
 ## How to setup
 
-```
+```sh
 #!script
 git clone git@github.com:binhnxit/auto_build.git
 cd auto_build
@@ -31,7 +31,7 @@ cp .env.example .env
 
 ## How to deploy
 
-```
+```sh
 #!script
 
 cd path/to/auto_build/backend
