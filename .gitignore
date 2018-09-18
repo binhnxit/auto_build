@@ -1,0 +1,11 @@
+.env
+backend/.env
+backend/logs/*
+.DS_Store
+Gemfile.lock
+ilance/.env
+ilance/logs/*
+lumen/logs/*
+yarn.lock
+.idea/
+node_modules/

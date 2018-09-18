@@ -1,0 +1,12 @@
+{
+  "name": "dmm_bot",
+  "version": "1.0.0",
+  "description": "Dmm bot api realtime message",
+  "main": "index.js",
+  "author": "binh.nx",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "botkit": "^0.6.14"
+  }
+}
