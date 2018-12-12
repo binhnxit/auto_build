@@ -65,3 +65,8 @@ And config as follow
 
 ![](../assests/jenkins_config.png)
 
+### Config bitbucket webhooks
+
+![](../assests/webhooks-config.png)
+
+![](../assests/webhooks-config2.png)
